@@ -1,0 +1,6 @@
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\bin\Debug\lab5.exe.config
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\bin\Debug\lab5.exe
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\bin\Debug\lab5.pdb
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\obj\Debug\lab5.exe
+D:\Student Life Viorel\anul 3\an 3 sem 2\Laboratoare-PR\lab5\obj\Debug\lab5.pdb
